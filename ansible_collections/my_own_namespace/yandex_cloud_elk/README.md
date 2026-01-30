@@ -1,4 +1,3 @@
-<img width="1861" height="992" alt="Ansible0806_step6" src="https://github.com/user-attachments/assets/969a87de-6db4-4dbf-a5da-f38a0f0926ac" /># my_own_namespace.yandex_cloud_elk
 
 Custom Ansible Collection created as a homework assignment.
 
