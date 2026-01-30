@@ -1,0 +1,35 @@
+{
+ "collection_info": {
+  "namespace": "my_own_namespace",
+  "name": "yandex_cloud_elk",
+  "version": "1.0.0",
+  "authors": [
+   "Ruslan Mamedov"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "ansible",
+   "module",
+   "role",
+   "homework"
+  ],
+  "description": "Custom Ansible collection with module and role for file creation",
+  "license": [
+   "GPL-3.0-or-later"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": null,
+  "documentation": null,
+  "homepage": null,
+  "issues": null
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "293e0fd6841480fda800786f44abfb1b40e1fba1e3ec2b9a265bda32b7b1b5a7",
+  "format": 1
+ },
+ "format": 1
+}
