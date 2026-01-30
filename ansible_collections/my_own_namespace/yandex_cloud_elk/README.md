@@ -19,8 +19,8 @@ The module is idempotent and supports check mode.
 
 Install the collection from a local archive:
 
-bash
-ansible-galaxy collection install my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
+```bash
+ansible-galaxy collection install my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz```markdown
 
 ### Шаг 4 & 6
 ![Здесь показан запуск и идемпотентность](https://github.com/pythonyandex/my_own_collection/blob/main/Ansible0806_step4_6.png)
