@@ -24,10 +24,9 @@ Install the collection from a local archive:
 ansible-galaxy collection install my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
 
 ### Шаг 4 & 6
-<img width="1861" height="992" alt="Ansible0806_step6" src="https://github.com/user-attachments/assets/23a2cb07-a84a-4c58-95b1-e1e9831829b7" />
-
+![Здесь показан запуск и идемпотентность](https://github.com/pythonyandex/my_own_collection/blob/main/Ansible0806_step4_6.png)
 ### Шаг 15
-<img width="3336" height="1186" alt="Ansible0806_step15" src="https://github.com/user-attachments/assets/930a4074-7c60-4be4-8288-1f7a83b261a3" />
+![ansible-galaxy collection install](https://github.com/pythonyandex/my_own_collection/blob/main/Ansible0806_step15.png)
 
 ### Шаг 16
-<img width="1661" height="663" alt="Ansible0806_step16" src="https://github.com/user-attachments/assets/ebbe6ea3-9e60-4ddf-b22d-290ffdf44483" />
+![Наличие модуля](https://github.com/pythonyandex/my_own_collection/blob/main/Ansible0806_step16.png)
